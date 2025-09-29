@@ -1,3 +1,4 @@
+#include <iostream>
 #include<color.hpp>
 namespace TelCoColorCoder
 {
